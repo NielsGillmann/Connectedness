@@ -6,3 +6,7 @@ This is a line from RStudio
 i am not able to do this
 
 Need to push by using GitBash and :git push -u origin master
+
+## Trying again
+
+Let's just use the RStudio IDE.
